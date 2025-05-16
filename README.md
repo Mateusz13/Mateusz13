@@ -9,9 +9,6 @@
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d58436f64652d626c75653f7374796c653d666f722d7468652d6261646765](https://github.com/user-attachments/assets/e967e1a8-4ee2-4fd9-a3b8-0ccbca47fb5c)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d2532333033394245352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365](https://github.com/user-attachments/assets/f4467c09-2f72-4f0e-b2ad-f21813449c8f)
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mateusz13)](https://git.io/streak-stats)
 
 ## 💡 Projects
 
@@ -29,7 +26,9 @@ Learn a new language by focusing on the most common words and phrases!<br>
 Practice spelling and pronunciation.<br>
 Track your progress and repeat what you've learned.
 
+## 📊 GitHub Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mateusz13)](https://git.io/streak-stats)
 
 
 
