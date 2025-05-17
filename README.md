@@ -12,15 +12,6 @@
 
 ## 💡 Projects
 
-## PDR (Powietrze dla Ratowników)
-
-An innovative application for the State Fire Service that estimates how long a firefighter can remain in a smoke-filled zone.
-
-
-![IMG_8957-portrait](https://github.com/user-attachments/assets/28b3c3e3-339c-4f37-81b4-86f5c77e7762)
-
-https://apps.apple.com/pl/app/pdr/id6447707284?l=pl
-
 ## TOPWORD
 
 Learn a new language by focusing on the most common words and phrases!<br>
@@ -30,6 +21,16 @@ Track your progress and repeat what you've learned.
 ![IMG_9787-left](https://github.com/user-attachments/assets/41268849-b475-4617-a159-d3d812e6c2e0)
 
 https://apps.apple.com/pl/app/topword/id6621269032?l=pl<br>
+
+## PDR (Powietrze dla Ratowników)
+
+An innovative application for the State Fire Service that estimates how long a firefighter can remain in a smoke-filled zone.
+
+
+![IMG_8957-portrait](https://github.com/user-attachments/assets/28b3c3e3-339c-4f37-81b4-86f5c77e7762)
+
+https://apps.apple.com/pl/app/pdr/id6447707284?l=pl
+
 
 ## 📊 GitHub Stats
 
